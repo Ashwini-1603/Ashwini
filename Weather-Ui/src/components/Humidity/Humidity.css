@@ -1,0 +1,106 @@
+.main{
+    display: flex;
+  
+}
+.data-info{
+    background-color: #E4F1FF;
+    width: 80%;
+    border-radius: 10px;
+    position: relative;
+    left: -15px;
+    padding: 15px;
+}
+.weatgher-info{
+    background-color: #FFFFFF;
+    margin: 20px;
+    border-radius: 10px;
+
+}
+.image-div{
+    width: 20%;
+    background-color:#5C9CE5;
+    position: relative;
+    border-radius: 10px;
+    padding: 15px;
+}
+img{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border-radius: 10px;
+    
+    
+}
+.all-weather-info{
+display: grid;
+grid-template-columns: auto auto auto;
+}
+.logo2{
+    float: right;
+    background-color: #5C9CE5;
+    border-radius: 5px;
+    padding: 3px;
+    color: #FFFFFF;
+    font-size: 17px;
+}
+.photo{
+    position: absolute;
+    display: inline-block;
+    right: 15px;
+    top: 15px;
+}
+.photo span{
+    margin: 0 5px;
+}
+.upcoming-text{
+    background-color: #FFFFFF;
+}
+/* h6{margin: 0px;} */
+.wrapper {
+    border: 3px solid blue;
+  }
+  
+  .container {
+    background-color: pink;
+  }
+  
+  .barCompleted {
+    background-color: lightblue;
+    width: 80%;
+  }
+  
+  .label {
+    font-size: 20px;
+    color: green;
+  }
+  .grid-item h1{
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+    font-weight: 500;
+  }
+  .main-title{
+    display: inline;
+  }
+  /* .float-right-container{
+    float: right;
+  } */
+.sun{
+  bottom: 30%;
+  width: 100px;
+  left: 60px;
+}
+.dropdown{
+  background-color: #F1F1F1;
+  
+  border-radius: 10px;
+
+}
+.ml{
+  margin-left: 30px;
+}
+.mr{
+  margin-right: 30px;
+}
+  

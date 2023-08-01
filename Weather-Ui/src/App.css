@@ -1,0 +1,72 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.App {
+  /* text-align: center; */
+/* background-color: #B4D7FE; */
+}
+
+body{
+  font-family: 'Nunito', sans-serif;
+  background-color: #B5D8FF;
+}
+.main-container{
+  width: 80%;
+  margin: 25px auto;
+}
+.inner-container{
+  width: 20%;
+  display: inline-block;
+  background-color: red;
+  border-radius: 15px;
+
+}
+.chart-container{
+  width: 80%;
+  display: inline-block;
+  background-color: #E4F1FF;
+  border-radius: 15px;
+}
+img{
+  width: 100%;
+}
+.all-time-weather-info{
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  /* width: 700px; */
+  margin: 30px;
+}
+.small-container{
+  display: flex;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+ 
+
+}
+.grid-item
+{
+ padding: 10px;
+  border-radius: 15px;
+  background-color: #FFFFFF;
+  margin: 30px;
+}
+.chart-info{
+  width: 70%;
+  height: 40%;
+}
+.logo{
+  float: right;
+  background-color: #5C9CE5;
+  border-radius: 5px;
+  padding: 3px;
+  color: #FFFFFF;
+  font-size: 17px;
+}
+h6{
+  float: left;
+}
+
+

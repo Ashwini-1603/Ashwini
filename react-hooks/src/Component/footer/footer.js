@@ -1,0 +1,9 @@
+import "./footer.css"
+function Footer(){
+return(
+    <div className="footer-mainn-container">
+        <h1>Footer</h1>
+    </div>
+)
+}
+export default Footer;

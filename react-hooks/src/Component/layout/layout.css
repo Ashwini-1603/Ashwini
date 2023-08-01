@@ -1,0 +1,23 @@
+.nav-controls{
+    display: flex;
+list-style-type: none;
+
+}
+.nav-controls li{
+    padding:0 10px
+}
+.textDe{
+    text-decoration: none;  
+    color: aliceblue;
+    font-size: 25px;
+}
+.nav_main_controls{
+    padding: 15px 0px;
+}
+.nav-controls .active{
+    background-color: red;
+  }
+  .nav-controls li a{
+    background-color: green;
+    margin: 2px;
+  }

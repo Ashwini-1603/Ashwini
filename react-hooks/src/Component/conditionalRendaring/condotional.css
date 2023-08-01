@@ -1,0 +1,17 @@
+.conditionalcontrol{
+   width: 50%;
+   margin:10px auto;
+
+}
+.option1{
+    background-color: red;
+}
+.option2{
+    background-color: #25c650;
+}
+.option3{
+    background-color: pink;
+}
+.option4{
+    background-color: rgb(223, 226, 12);
+}

@@ -1,0 +1,17 @@
+.Head-mainn-container{
+    background-color: rgb(20, 14, 14);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.font-link {
+    font-family: 'Hanalei Fill', cursive;
+    color: red;
+    padding: 10px 0px;
+  }
+  
